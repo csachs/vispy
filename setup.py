@@ -99,6 +99,7 @@ setup(
         # 'pyqt4': [],  # Why is this on PyPI, but without downloads?
         # 'pyqt5': [],  # Ditto.
         'pyside': ['PySide'],
+        # 'pyside2': [],  # not yet on PyPI
         'sdl2': ['PySDL2'],
         'wx': ['wxPython'],
     },
